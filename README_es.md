@@ -3,10 +3,10 @@ False
 
 ---
 
-# TITLE FOR en
-Muestra para mi variable: Spanish text
+# Título para el idioma inglés
+Variable de muestra para repo: repo es
 
-Versión = 0.1.2
+Versión = 0.1.3
 nombre de la biblioteca = devian
 Título = devian
 Palabras clave = good

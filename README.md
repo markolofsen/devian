@@ -3,10 +3,10 @@ False
 
 ---
 
-# TITLE FOR en
-Sample for my variable: English text
+# Title for English language
+Sample variable for repo: repo en
 
-Version = 0.1.2
+Version = 0.1.3
 library name = devian
 Title = devian
 Keywords = good
@@ -14,7 +14,7 @@ Keywords = good
 ```
 my code sample
 ```
-
+        
 
 ---
 
