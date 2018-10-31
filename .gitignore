@@ -1,5 +1,6 @@
 
 # Created by https://www.gitignore.io/api/macos,node
+# Edit at https://www.gitignore.io/?templates=macos,node
 
 ### macOS ###
 # General
@@ -106,6 +107,5 @@ typings/
 
 # FuseBox cache
 .fusebox/
-
 
 # End of https://www.gitignore.io/api/macos,node

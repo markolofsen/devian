@@ -3,7 +3,17 @@ False
 
 ---
 
+# TITLE FOR en
+Muestra para mi variable: [[text1]]
 
+Versión = 0.0.5
+nombre de la biblioteca = devian
+Título = devian
+Palabras clave = good
+
+```
+my code sample
+```
 
 ---
 

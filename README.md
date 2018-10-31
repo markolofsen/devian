@@ -3,6 +3,17 @@ False
 
 ---
 
+# TITLE FOR en
+Sample for my variable: [[text1]]
+
+Version = 0.0.5
+library name = devian
+Title = devian
+Keywords = good
+
+```
+my code sample
+```
 
 
 ---
