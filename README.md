@@ -6,7 +6,7 @@ False
 # TITLE FOR en
 Sample for my variable: [[text1]]
 
-Version = 0.0.6
+Version = 0.0.7
 library name = devian
 Title = devian
 Keywords = good
