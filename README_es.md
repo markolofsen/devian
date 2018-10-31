@@ -6,7 +6,7 @@
 # Título para el idioma inglés
 Variable de muestra para repo: repo es
 
-Versión = 0.1.6
+Versión = 0.1.7
 nombre de la biblioteca = devian
 Título = devian
 Palabras clave = good

@@ -6,7 +6,7 @@
 # Title for English language
 Sample variable for repo: repo en
 
-Version = 0.1.6
+Version = 0.1.7
 library name = devian
 Title = devian
 Keywords = good
