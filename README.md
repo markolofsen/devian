@@ -4,9 +4,9 @@ False
 ---
 
 # TITLE FOR en
-Sample for my variable: [[text1]]
+Sample for my variable: [[English text]]
 
-Version = 0.1.0
+Version = 0.1.1
 library name = devian
 Title = devian
 Keywords = good

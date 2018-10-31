@@ -4,9 +4,9 @@ False
 ---
 
 # TITLE FOR en
-Muestra para mi variable: [[text1]]
+Muestra para mi variable: [[Spanish text]]
 
-Versión = 0.1.0
+Versión = 0.1.1
 nombre de la biblioteca = devian
 Título = devian
 Palabras clave = good
