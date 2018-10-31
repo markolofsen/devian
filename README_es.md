@@ -6,14 +6,14 @@ False
 # Título para el idioma inglés
 Variable de muestra para repo: repo es
 
-Versión = 0.1.3
+Versión = 0.1.4
 nombre de la biblioteca = devian
 Título = devian
 Palabras clave = good
 
-```
-my code sample
-```
+`` `javascript
+prueba de funcionamiento() {}
+`` `
 
 ---
 
